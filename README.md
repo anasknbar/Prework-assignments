@@ -1,7 +1,7 @@
 # reading-notes
 
 
-This website contains my reading notes for my python software development course .
+This website contains my reading notes for my python software development course.
 
 # ASAC - Software Development - Python 
 
