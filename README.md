@@ -45,8 +45,17 @@ This website contains my reading notes for my python software development course
 
 ## Prep 06 
 ### title : Professional Etiquette & Analysis
+[#### checkout the google doc :](https://docs.google.com/document/d/1wFqQROjZa5F6WGJvCDmSqH5cbiTTYULo5BMO1TfAla4/edit#heading=h.z708gyll6ldd)
 
 
 ## Prep 07 
 ### title : Prep Your Mindset
+
+## Prep 08 
+### title : 
+
+## Prep 09
+### title : Resume: Update your Projects
+
+
 
