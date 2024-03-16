@@ -1,8 +1,3 @@
-# reading-notes
-
-
-This website contains my reading notes for my python software development course.
-
 # ASAC - Software Development - Python 
 
 ## Prep 01 
@@ -21,15 +16,13 @@ This website contains my reading notes for my python software development course
 
 ## Prep 03 
 ### title : Git Practice
-#### Descrption :
-#### Objectives :
-#### Outcomes : 
+#### [practice screen shots ](gitPractice/Screenshot%20(420).png)
 
 
 ## Prep 04 
 ### title : SQL Practice
 #### Descrption : Introduction to some of the more common SQL statements and query techniques, allowing you to practice visualizing and querying a relational database.
-[#### exercises screen shots :](SQL.md)
+#### [exercises screen shots ](SQL.md)
 
 
 
@@ -40,13 +33,13 @@ This website contains my reading notes for my python software development course
 ### title : The Command Line
 #### Descrption : introduction  to some of the more common commands involved in traversing directories and manipulating files on your computer.
 
-[#### The Command Line :](CommandLine.md)
+#### [The Command Line ](CommandLine.md)
 
 
 
 ## Prep 06 
 ### title : Professional Etiquette & Analysis
-[#### checkout the google doc :](https://docs.google.com/document/d/1wFqQROjZa5F6WGJvCDmSqH5cbiTTYULo5BMO1TfAla4/edit#heading=h.z708gyll6ldd)
+#### [checkout the google doc](https://docs.google.com/document/d/1wFqQROjZa5F6WGJvCDmSqH5cbiTTYULo5BMO1TfAla4/edit#heading=h.z708gyll6ldd)
 
 
 ## Prep 07 
