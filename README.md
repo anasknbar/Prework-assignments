@@ -5,21 +5,22 @@ This website contains my reading notes for my python software development course
 
 # ASAC - Software Development - Python 
 
-## Class 01 
-### title :
-#### Descrption :
-#### Objectives :
-#### Outcomes : 
+## Prep 01 
+### title : 401 Status Report
+#### [LinkedIn](https://www.linkedin.com/in/anas-knbar/) 
+#### [GitHub  ](https://github.com/anasknbar) 
+#### [behavioral questions  ](https://docs.google.com/document/d/1-Mnw3fSIgKAXnYnVO9o7rkcskLZ2aUCgEkCz-sdzxD4/edit?usp=sharing)  
+#### [Professional Pitch](Professional-Pitch.md)
+
+ 
   
-## Class 02 
-### title :
-#### Descrption :
-#### Objectives :
-#### Outcomes : 
+## Prep 02
+### title : Create a Reading Notes Repo
+### Done
 
 
-## Class 03 
-### title :
+## Prep 03 
+### title : Git Practice
 #### Descrption :
 #### Objectives :
 #### Outcomes : 
