@@ -1,4 +1,4 @@
-# ASAC - Software Development - Python 
+# Prework-assignments
 
 ## Prep 01 
 ### title : 401 Status Report
@@ -10,8 +10,8 @@
  
   
 ## Prep 02
-### title : Create a Reading Notes Repo
-### Done
+#### title : Create a Reading Notes Repo
+#### [link to my repo notes](https://anasknbar.github.io/Reading-Notes-Repo/)
 
 
 ## Prep 03 
